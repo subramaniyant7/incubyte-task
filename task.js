@@ -7,3 +7,4 @@ function add(numbers) {
 console.log(add("") === 0, "Empty string should return 0");
 console.log(add("1") === 1, "'1' should return 1");
 console.log(add("5") === 5, "'5' should return 5");
+
